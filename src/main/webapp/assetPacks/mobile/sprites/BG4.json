@@ -1,0 +1,20 @@
+{"frames": {
+
+"portraitBGTop.jpg":
+{
+	"frame": {"x":0,"y":0,"w":810,"h":1440},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1440},
+	"sourceSize": {"w":810,"h":1440}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "BG4.png",
+	"format": "RGBA8888",
+	"size": {"w":810,"h":1440},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:38e51ca3b0f8d75623d54ef261138227:956fd36c8369738e67a955610bc500bc:68f2723e835505a4e00f37b2bcf00697$"
+}
+}

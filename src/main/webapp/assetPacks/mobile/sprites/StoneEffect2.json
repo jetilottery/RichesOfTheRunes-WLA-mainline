@@ -1,0 +1,22 @@
+{"frames": {
+
+"LightBG2.png":
+{
+	"frame": {"x":0,"y":0,"w":359,"h":335},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":359,"h":335},
+	"sourceSize": {"w":359,"h":335}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "StoneEffect2.png",
+	"format": "RGBA8888",
+	"size": {"w":359,"h":335},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:63b4e35dc43339f5b05ac4a73e1ec0a7:740a3d93a33966be03cdf7b82bab9a77:a83287feb360f376e8dc9875f354ed1a$"
+}
+}

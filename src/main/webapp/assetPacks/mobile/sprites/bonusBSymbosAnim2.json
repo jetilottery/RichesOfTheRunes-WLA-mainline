@@ -1,0 +1,71 @@
+{"frames": {
+
+"bonusBSymbosAnim_0009.png":
+{
+	"frame": {"x":0,"y":0,"w":600,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":600},
+	"sourceSize": {"w":600,"h":600}
+},
+"bonusBSymbosAnim_0010.png":
+{
+	"frame": {"x":600,"y":0,"w":600,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":600},
+	"sourceSize": {"w":600,"h":600}
+},
+"bonusBSymbosAnim_0011.png":
+{
+	"frame": {"x":1200,"y":0,"w":600,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":600},
+	"sourceSize": {"w":600,"h":600}
+},
+"bonusBSymbosAnim_0012.png":
+{
+	"frame": {"x":0,"y":600,"w":600,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":600},
+	"sourceSize": {"w":600,"h":600}
+},
+"bonusBSymbosAnim_0013.png":
+{
+	"frame": {"x":600,"y":600,"w":600,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":600},
+	"sourceSize": {"w":600,"h":600}
+},
+"bonusBSymbosAnim_0014.png":
+{
+	"frame": {"x":1200,"y":600,"w":600,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":600},
+	"sourceSize": {"w":600,"h":600}
+},
+"bonusBSymbosAnim_0015.png":
+{
+	"frame": {"x":0,"y":1200,"w":600,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":600},
+	"sourceSize": {"w":600,"h":600}
+}},
+"animations": {
+	"bonusBSymbosAnim": ["bonusBSymbosAnim_0009.png","bonusBSymbosAnim_0010.png","bonusBSymbosAnim_0011.png","bonusBSymbosAnim_0012.png","bonusBSymbosAnim_0013.png","bonusBSymbosAnim_0014.png","bonusBSymbosAnim_0015.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bonusBSymbosAnim2.png",
+	"format": "RGBA8888",
+	"size": {"w":1800,"h":1800},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b87b21837d5dde996a34b5e664e9cee6:19558ecedd1a4f290280e3c2df11b06a:740e58f9ac873c36bc00429b15f60be4$"
+}
+}

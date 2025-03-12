@@ -1,0 +1,55 @@
+{"frames": {
+
+"bonusBSymbosExplsionAnim1_0001.png":
+{
+	"frame": {"x":0,"y":0,"w":600,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":600},
+	"sourceSize": {"w":600,"h":600}
+},
+"bonusBSymbosExplsionAnim1_0002.png":
+{
+	"frame": {"x":600,"y":0,"w":600,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":600},
+	"sourceSize": {"w":600,"h":600}
+},
+"bonusBSymbosExplsionAnim1_0003.png":
+{
+	"frame": {"x":1200,"y":0,"w":600,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":600},
+	"sourceSize": {"w":600,"h":600}
+},
+"bonusBSymbosExplsionAnim1_0004.png":
+{
+	"frame": {"x":0,"y":600,"w":600,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":600},
+	"sourceSize": {"w":600,"h":600}
+},
+"bonusBSymbosExplsionAnim1_0005.png":
+{
+	"frame": {"x":600,"y":600,"w":600,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":600},
+	"sourceSize": {"w":600,"h":600}
+}},
+"animations": {
+	"bonusBSymbosExplsionAnim1": ["bonusBSymbosExplsionAnim1_0001.png","bonusBSymbosExplsionAnim1_0002.png","bonusBSymbosExplsionAnim1_0003.png","bonusBSymbosExplsionAnim1_0004.png","bonusBSymbosExplsionAnim1_0005.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bonusBSymbosExplsionAnim1.png",
+	"format": "RGBA8888",
+	"size": {"w":1800,"h":1200},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ee50e64d46b976ce7f5f5e21a9cb4e82:c66e606a8329ba7d2de9e67da2fb5c05:3270228ba25e21d49f349d7d9683620f$"
+}
+}

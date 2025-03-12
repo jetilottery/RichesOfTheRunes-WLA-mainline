@@ -1,0 +1,121 @@
+﻿{
+    "version":"8-23-2017 2:01PM Riches of the Runes en_us_default SM",
+	"audioLoader": {
+		"yes": "Ja",
+		"no": "Nein",
+		"confirm": "Benötigen Sie Sound?"
+	},
+	"title": "Riches of the Runes",
+	"Paytable": {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "{@minRTP}% bis {@maxRTP}%",
+        "RTPrangeStatic": "85,00 % bis 93,00 %",
+        "paybackTitle": "Erwartete Rückzahlung",
+        "paybackBody": "Für dieses Spiel beträgt die langfristig erwartete Rückzahlung {RTP}."
+    },
+	"MenuCommand": {
+        "WLA": {
+            "howToPlay": "Hilfe",
+            "payTable": "Preistabelle",
+            "price": "Preis",
+            "stake": "Einsatz",
+            "balance": "Guthaben"                
+        },
+        "Commercial": {
+            "howToPlay": "Hilfe",
+            "payTable": "Gewinntabelle",
+            "price": "Preis",
+            "stake": "Einsatz",
+            "balance": "Guthaben"     
+        },
+        "audio": {
+            "on": "Ein",
+            "off": "Aus",
+            "sound": "Sound"
+        }
+    },
+	"Error": {
+        "error29000": "Fehler:29000\n\nEs ist ein interner Fehler aufgetreten.\nSpiel VERLASSEN und neu starten."
+    },
+	"Game": {
+        "WLA": {
+            "tutorialTitle": "SO WIRD GESPIELT",
+            "tutorialPage": "Drücken Sie auf jeden der leuchtenden Steine, um einen Edelstein aufzudecken.\nDecken Sie 4 oder mehr Regenbogen-Edelsteine auf, um einen Preis zu gewinnen!\nFinden Sie 4 Runen-Symbole, um den Runen-Bonus auszulösen.\nFinden Sie 4 Amulett-Symbole, um den Amulett-Bonus auszulösen.",
+            "tutorialPage01": "Wählen Sie im Runen-Bonus 4 Steine aus, um ein Amulett-Symbol aufzudecken oder einen Preis zu gewinnen.\nWählen Sie im Amulett-Bonus ein Amulett aus, um den Gesamtgewinn zu multiplizieren. "
+        },
+        "Commercial": {
+            "tutorialTitle": "SO WIRD GESPIELT",
+            "tutorialPage": "Drücken Sie auf jeden der leuchtenden Steine, um einen Edelstein aufzudecken.\nDecken Sie 4 oder mehr Regenbogen-Edelsteine auf, um einen Preis zu gewinnen!\nFinden Sie 4 Runen-Symbole, um den Runen-Bonus auszulösen.\nFinden Sie 4 Amulett-Symbole, um den Amulett-Bonus auszulösen.",
+            "tutorialPage01": "Wählen Sie im Runen-Bonus 4 Steine aus, um ein Amulett-Symbol aufzudecken oder einen Preis zu gewinnen.\nWählen Sie im Amulett-Bonus ein Amulett aus, um den Gesamtgewinn zu multiplizieren. "
+        },  
+            "RUNEBONUS":"RUNEN-BONUS",
+            "AMULETBONUS":"AMULETT-BONUS",
+            "BpormptText":"Wählen Sie ein Amulett, um den Gesamtgewinn zu multiplizieren. ",
+            "ApormptText":"Wählen Sie 4 Steine, um ein Amulett-Symbol aufzudecken oder einen Preis zu gewinnen.",
+            "amuletbonus":"AMULETT-\nBONUS",
+            "totalwin":"GEWINN GESAMT",
+            "totalbonuswin":"GEWINN GESAMT",
+            "totaldemowin":"DEMO-GEWINN GESAMT",
+            "bonuswin":"BONUSGEWINN",
+            "bonusLogo":"RUNEN-\nBONUS",
+            "bonusLogo01":"RUNEN-BONUS",
+            "find":"SUCHEN",
+            "win":"GEWINN",
+            "rune":"RUNE",
+            "amulet":"AMULETT",
+            "multiplierText_1":"13x",
+            "multiplierText_2":"12x",
+            "multiplierText_3":"11x",
+            "multiplierText_4":"10x",
+            "multiplierText_5":"9x",
+            "multiplierText_6":"8x",
+            "multiplierText_7":"7x",
+            "multiplierText_8":"6x",
+            "multiplierText_9":"5x",
+            "multiplierText_10":"4x",
+            "amuletMultipleText_1":"10x",
+            "amuletMultipleText_2":"5x",
+            "amuletMultipleText_3":"4x",
+            "amuletMultipleText_4":"3x",
+            "amuletMultipleText_5":"2x",
+            "demo": "PROBIEREN ",
+            "button_buy": "KAUFEN",
+            "button_try": "PROBIEREN",
+            "button_continue": "FORTFAHREN",
+            "button_move2moneyGame": "UM GELD SPIELEN",
+            "button_autoPlay": "ALLE AUFDECKEN",
+            "button_playAgain":"ERNEUT SPIELEN",
+            "button_MTMPlayAgain":"ERNEUT VERSUCHEN",
+            "button_stop":"STOPP",
+            "wager": "TICKETPREIS",
+            "meter_wager": "TICKETPREIS ",            
+            "balance": "GUTHABEN ",
+            "wins": "GEWINN ",
+            "wins_demo": "DEMO-GEWINN ",
+            "message_nonWin01": "MEHR GLÜCK",
+            "message_nonWin02": "BEIM NÄCHSTEN MAL",
+            "message_buyWin": "HERZLICHEN GLÜCKWUNSCH!\nSie haben gewonnen:",
+            "message_tryWin": "DANKE FÜRS SPIELEN!\nSie hätten gewinnen können:",
+            "message_anonymousTryWin": "DANKE FÜRS SPIELEN!\nSie hätten gewinnen können:",
+            "message_close": "OKAY",
+            "button_exit": "BEENDEN",
+            "session_timeout_warning_exit_button": "BEENDEN",
+            "error_button_exit": "BEENDEN",
+            "warning_button_continue": "FORTFAHREN",
+            "warning_button_exitGame": "BEENDEN",
+            "warning_title": "WARNUNG",
+            "error_title": "FEHLER",
+            "win_up_to":"GEWINNEN SIE BIS ZU",
+            "win_up_to_mark":"!",
+            "tutorial_title":"SO WIRD GESPIELT",            
+            "your_number":"IHRE SYMBOLE",
+            "luck_number":"GEWINNSYMBOLE",
+            "meter_division":" | ",
+            "buttonClose":"X",
+			"prizeLevel": "Preis-Stufe",
+			"prizeDescription": "Beschreibung",
+            "prizeValue": "Preis-Wert",
+            "paytableWager": "TICKETPREIS "
+
+	}
+}

@@ -1,0 +1,121 @@
+{
+    "version":"8-23-2017 2:01PM Riches of the Runes en_us_Default SM",
+	"audioLoader": {
+		"yes": "Oui",
+		"no": "Non",
+		"confirm": "Activer le son?"
+	},
+	"title": "Riches of the Runes",
+	"Paytable": {
+        "RTPvalue": "{@minRTP} %",
+        "RTPrange": "de {@minRTP} % à {@maxRTP} %",
+        "RTPrangeStatic": "de 85,00 % à 93,00 %",
+        "paybackTitle": "Taux de retour théorique",
+        "paybackBody": "Pour ce jeu, le taux de retour théorique moyen à long terme est {RTP}."
+    },
+	"MenuCommand": {
+        "WLA": {
+            "howToPlay": "Aide",
+            "payTable": "Table de paiement",
+            "price": "Prix",
+            "stake": "Mise",
+            "balance": "Solde"                
+        },
+        "Commercial": {
+            "howToPlay": "Aide",
+            "payTable": "Table de paiement",
+            "price": "Prix",
+            "stake": "Mise",
+            "balance": "Solde"     
+        },
+        "audio": {
+            "on": "Activé",
+            "off": "Désactivé",
+            "sound": "Son"
+        }
+    },
+	"Error": {
+        "error29000": "Erreur : 29000\n\nUne erreur interne est survenue.\nQuittez le jeu et relancez-le."
+    },
+	"Game": {
+        "WLA": {
+            "tutorialTitle": "COMMENT JOUER",
+            "tutorialPage": "Appuyez sur chaque pierre brillante pour découvrir une gemme.\nDécouvrez quatre gemmes arc-en-ciel ou plus pour gagner un lot!\nTrouvez quatre symboles Rune pour déclencher le jeu boni Rune.\nTrouvez quatre symboles Amulette pour déclencher le jeu boni Amulette.",
+            "tutorialPage01": "Durant le jeu boni Rune, sélectionnez quatre pierres pour découvrir un symbole Amulette ou pour gagner un lot.\nDurant le jeu boni Amulette, sélectionnez une amulette pour multiplier le gain total. "
+        },
+        "Commercial": {
+            "tutorialTitle": "COMMENT JOUER",
+            "tutorialPage": "Appuyez sur chaque pierre brillante pour découvrir une gemme.\nDécouvrez quatre gemmes arc-en-ciel ou plus pour gagner un lot!\nTrouvez quatre symboles Rune pour déclencher le jeu boni Rune.\nTrouvez quatre symboles Amulette pour déclencher le jeu boni Amulette.",
+            "tutorialPage01": "Durant le jeu boni Rune, sélectionnez quatre pierres pour découvrir un symbole Amulette ou pour gagner un lot.\nDurant le jeu boni Amulette, sélectionnez une amulette pour multiplier le gain total. "
+        },  
+            "RUNEBONUS":"JEU BONI RUNE",
+            "AMULETBONUS":"JEU BONI AMULETTE",
+            "BpormptText":"Sélectionnez une amulette pour multiplier le gain total. ",
+            "ApormptText":"Sélectionnez quatre pierres pour révéler un symbole Amulette ou pour gagner un lot.",
+            "amuletbonus":"JEU BONI\nAMULETTE",
+            "totalwin":"GAIN TOTAL",
+            "totalbonuswin":"GAIN TOTAL",
+            "totaldemowin":"GAIN TOTAL FICTIF",
+            "bonuswin":"GAIN BONI",
+            "bonusLogo":"JEU BONI\nRUNE",
+            "bonusLogo01":"JEU BONI RUNE",
+            "find":"TROUVER",
+            "win":"GAIN",
+            "rune":"RUNE",
+            "amulet":"AMULETTE",
+            "multiplierText_1":"x13",
+            "multiplierText_2":"x12",
+            "multiplierText_3":"x11",
+            "multiplierText_4":"x10",
+            "multiplierText_5":"x9",
+            "multiplierText_6":"x8",
+            "multiplierText_7":"x7",
+            "multiplierText_8":"x6",
+            "multiplierText_9":"x5",
+            "multiplierText_10":"x4",
+            "amuletMultipleText_1":"x10",
+            "amuletMultipleText_2":"x5",
+            "amuletMultipleText_3":"x4",
+            "amuletMultipleText_4":"x3",
+            "amuletMultipleText_5":"x2",
+            "demo": "ESSAYER ",
+            "button_buy": "ACHETER",
+            "button_try": "ESSAYER",
+            "button_continue": "CONTINUER",
+            "button_move2moneyGame": "MODE ARGENT RÉEL",
+            "button_autoPlay": "TOUT AFFICHER",
+            "button_playAgain":"JOUER DE NOUVEAU",
+            "button_MTMPlayAgain":"ESSAYER DE NOUVEAU",
+            "button_stop":"ARRÊTER",
+            "wager": "COÛT DU BILLET",
+            "meter_wager": "COÛT DU BILLET ",            
+            "balance": "SOLDE ",
+            "wins": "GAIN ",
+            "wins_demo": "GAIN FICTIF ",
+            "message_nonWin01": "MEILLEURE CHANCE",
+            "message_nonWin02": "LA PROCHAINE FOIS",
+            "message_buyWin": "FÉLICITATIONS!\nVous avez gagné",
+            "message_tryWin": "MERCI D’AVOIR JOUÉ!\nVous auriez pu gagner",
+            "message_anonymousTryWin": "MERCI D’AVOIR JOUÉ!\nVous auriez pu gagner",
+            "message_close": "OK",
+            "button_exit": "QUITTER",
+            "session_timeout_warning_exit_button": "QUITTER",
+            "error_button_exit": "QUITTER",
+            "warning_button_continue": "CONTINUER",
+            "warning_button_exitGame": "QUITTER",
+            "warning_title": "AVERTISSEMENT",
+            "error_title": "ERREUR",
+            "win_up_to":"GAGNEZ JUSQU’À",
+            "win_up_to_mark":"!",
+            "tutorial_title":"COMMENT JOUER",            
+            "your_number":"VOS SYMBOLES",
+            "luck_number":"SYMBOLES GAGNANTS",
+            "meter_division":" | ",
+            "buttonClose":"X",
+			"prizeLevel": "Niveau du lot",
+			"prizeDescription": "Description",
+            "prizeValue": "Valeur du lot",
+            "paytableWager": "COÛT DU BILLET "
+
+	}
+}

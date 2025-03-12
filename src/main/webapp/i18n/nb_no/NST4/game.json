@@ -1,0 +1,127 @@
+{
+    "version":"8-23-2017 2:01PM Riches of the Runes en_us_Default SM",
+	"audioLoader": {
+		"yes": "Ja",
+		"no": "Nei",
+		"confirm": "Ønsker du lyd?"
+	},
+	"title": "RUNER OG RIKDOM",
+	"Paytable": {
+        "RTPvalue": "{@minRTP} %",
+        "RTPrange": "fra {@minRTP} % til {@maxRTP} %",
+        "RTPrangeStatic": "fra 85,00 % til 93,00 %",
+        "paybackTitle": "Premieandel",
+        "paybackBody": "For dette spillet er langsiktig, teoretisk oppgitt premieandel {RTP}."
+    },
+	"MenuCommand": {
+        "WLA": {
+            "howToPlay": "Slik spiller du",
+            "payTable": "Premieoversikt",
+            "price": "Pris",
+            "stake": "Innsats",
+            "balance": "Saldo",
+            "prizeDivision": "Premieoversikt",
+            "prizeValue": "Premieverdi",
+            "approximatePrize": "Omtrentlige gjenværende premier",
+            "oddsPerPlay": "Vinnersjanse per spill",
+            "overAllOdds": "Det er en samlet vinnersjanse på 1 til {oddNum} for å vinne en premie på hvert spill.",
+            "availablePrices": "Tilgjengelige premier: {{prices}"	              
+        },
+        "Commercial": {
+            "howToPlay": "Slik spiller du",
+            "payTable": "Premieoversikt",
+            "price": "Pris",
+            "stake": "Innsats",
+            "balance": "Saldo"     
+        },
+        "audio": {
+            "on": "På",
+            "off": "Av",
+            "sound": "Lyd"
+        }
+    },
+	"Error": {
+        "error29000": "Feil:29000\n\nDet har oppstått en intern feil.\nAVSLUTT og start spillet på nytt."
+    },
+	"Game": {
+        "WLA": {
+            "tutorialTitle": "SLIK SPILLER DU",
+            "tutorialPage": "Trykk på hver glødende sten for å avdekke en edelsten.\nAvdekk 4 eller flere regnbueedelstener for å vinne en premie.\nFinn 4 runesymboler for å aktivere Rune Portalen.\nFinn 4 amulettsymboler for å aktivere Amulett Spillet.",
+            "tutorialPage01": "Velg 4 stener i Rune Portalen for å avdekke et amulettsymbol eller vinne en premie. \nI I Amulett Spillet velges en amulett for å multiplisere totalpremien. "
+        },
+        "Commercial": {
+            "tutorialTitle": "SLIK SPILLER DU",
+            "tutorialPage": "Trykk på hver glødende sten for å avdekke en edelsten.\nAvdekk 4 eller flere regnbueedelstener for å vinne en premie.\nFinn 4 runesymboler for å aktivere Rune Portalen.\nFinn 4 amulettsymboler for å aktivere Amulett Spillet.",
+            "tutorialPage01": "Velg 4 stener i Rune Portalen for å avdekke et amulettsymbol eller vinne en premie. \nI I Amulett Spillet velges en amulett for å multiplisere totalpremien. "
+        },  
+            "RUNEBONUS":"RUNE PORTALEN",
+            "AMULETBONUS":"AMULETT SPILLET",
+            "BpormptText":"Velg en amulett for å multiplisere totalpremien. ",
+            "ApormptText":"Velg 4 stener for å avdekke et amulettsymbol eller vinne en premie.",
+            "amuletbonus":"AMULETT\nSPILLET",
+            "totalwin":"SAMLET PREMIE",
+            "totalbonuswin":"PORTALPREMIE",
+            "totaldemowin":"PREMIE PRØVESPILL",
+            "bonuswin":"PORTALPREMIE",
+            "bonusLogo":"RUNE\nPORTALEN",
+            "bonusLogo01":"RUNE PORTALEN",
+            "find":"FINN",
+            "win":"PREMIE",
+            "rune":"RUNE",
+            "amulet":"AMULETT",
+            "multiplierText_1":"13x",
+            "multiplierText_2":"12x",
+            "multiplierText_3":"11x",
+            "multiplierText_4":"10x",
+            "multiplierText_5":"9x",
+            "multiplierText_6":"8x",
+            "multiplierText_7":"7x",
+            "multiplierText_8":"6x",
+            "multiplierText_9":"5x",
+            "multiplierText_10":"4x",
+            "amuletMultipleText_1":"10x",
+            "amuletMultipleText_2":"5x",
+            "amuletMultipleText_3":"4x",
+            "amuletMultipleText_4":"3x",
+            "amuletMultipleText_5":"2x",
+            "demo": "PRØVESPILL ",
+            "button_buy": "SPILL",
+            "button_try": "PRØVESPILL",
+            "button_continue": "FORTSETT",
+            "button_move2moneyGame": "SPILL FOR EKTE PENGER",
+            "button_autoPlay": "FULLFØR",
+            "button_playAgain":"SPILL IGJEN",
+            "button_MTMPlayAgain":"SPILL IGJEN",
+            "button_stop":"STOPP",
+            "wager": "PRIS",
+            "meter_wager": "PRIS ",            
+            "balance": "SALDO ",
+            "wins": "PREMIE ",
+            "wins_demo": "PREMIE PRØVESPILL ",
+            "message_nonWin01": "BEKLAGER",
+            "message_nonWin02": "INGEN PREMIE!",
+            "message_buyWin": "GRATULERER!\nDU VANT!",
+            "message_tryWin": "Hadde dette vært et spill\nfor ekte penger, hadde du vunnet",
+            "message_anonymousTryWin": "Hadde dette vært et spill\nfor ekte penger, hadde du vunnet",
+            "message_close": "OK",
+            "button_exit": "AVSLUTT",
+            "session_timeout_warning_exit_button": "AVSLUTT",
+            "error_button_exit": "AVSLUTT",
+            "warning_button_continue": "FORTSETT",
+            "warning_button_exitGame": "AVSLUTT",
+            "warning_title": "ADVARSEL",
+            "error_title": "FEIL",
+            "win_up_to":"TOPPREMIE",
+            "win_up_to_mark":"!",
+            "tutorial_title":"SLIK SPILLER DU",            
+            "your_number":"DINE SYMBOLER",
+            "luck_number":"VINNERSYMBOLER",
+            "meter_division":" | ",
+            "buttonClose":"X",
+			"prizeLevel": "Premienivå",
+			"prizeDescription": "Premiebeskrivelse",
+            "prizeValue": "Premieverdi",
+            "paytableWager": "PRIS "
+
+	}
+}

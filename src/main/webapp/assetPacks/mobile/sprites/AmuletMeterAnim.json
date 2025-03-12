@@ -1,0 +1,143 @@
+{"frames": {
+
+"AmuletMeterAnim_0000.png":
+{
+	"frame": {"x":0,"y":0,"w":180,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":158},
+	"sourceSize": {"w":180,"h":158}
+},
+"AmuletMeterAnim_0001.png":
+{
+	"frame": {"x":180,"y":0,"w":180,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":158},
+	"sourceSize": {"w":180,"h":158}
+},
+"AmuletMeterAnim_0002.png":
+{
+	"frame": {"x":0,"y":158,"w":180,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":158},
+	"sourceSize": {"w":180,"h":158}
+},
+"AmuletMeterAnim_0003.png":
+{
+	"frame": {"x":180,"y":158,"w":180,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":158},
+	"sourceSize": {"w":180,"h":158}
+},
+"AmuletMeterAnim_0004.png":
+{
+	"frame": {"x":0,"y":316,"w":180,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":158},
+	"sourceSize": {"w":180,"h":158}
+},
+"AmuletMeterAnim_0005.png":
+{
+	"frame": {"x":180,"y":316,"w":180,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":158},
+	"sourceSize": {"w":180,"h":158}
+},
+"AmuletMeterAnim_0006.png":
+{
+	"frame": {"x":0,"y":474,"w":180,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":158},
+	"sourceSize": {"w":180,"h":158}
+},
+"AmuletMeterAnim_0007.png":
+{
+	"frame": {"x":180,"y":474,"w":180,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":158},
+	"sourceSize": {"w":180,"h":158}
+},
+"AmuletMeterAnim_0008.png":
+{
+	"frame": {"x":0,"y":632,"w":180,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":158},
+	"sourceSize": {"w":180,"h":158}
+},
+"AmuletMeterAnim_0009.png":
+{
+	"frame": {"x":180,"y":632,"w":180,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":158},
+	"sourceSize": {"w":180,"h":158}
+},
+"AmuletMeterAnim_0010.png":
+{
+	"frame": {"x":0,"y":790,"w":180,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":158},
+	"sourceSize": {"w":180,"h":158}
+},
+"AmuletMeterAnim_0011.png":
+{
+	"frame": {"x":180,"y":790,"w":180,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":158},
+	"sourceSize": {"w":180,"h":158}
+},
+"AmuletMeterAnim_0012.png":
+{
+	"frame": {"x":0,"y":948,"w":180,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":158},
+	"sourceSize": {"w":180,"h":158}
+},
+"AmuletMeterAnim_0013.png":
+{
+	"frame": {"x":180,"y":948,"w":180,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":158},
+	"sourceSize": {"w":180,"h":158}
+},
+"AmuletMeterAnim_0014.png":
+{
+	"frame": {"x":0,"y":1106,"w":180,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":158},
+	"sourceSize": {"w":180,"h":158}
+},
+"AmuletMeterAnim_0015.png":
+{
+	"frame": {"x":180,"y":1106,"w":180,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":158},
+	"sourceSize": {"w":180,"h":158}
+}},
+"animations": {
+	"AmuletMeterAnim": ["AmuletMeterAnim_0000.png","AmuletMeterAnim_0001.png","AmuletMeterAnim_0002.png","AmuletMeterAnim_0003.png","AmuletMeterAnim_0004.png","AmuletMeterAnim_0005.png","AmuletMeterAnim_0006.png","AmuletMeterAnim_0007.png","AmuletMeterAnim_0008.png","AmuletMeterAnim_0009.png","AmuletMeterAnim_0010.png","AmuletMeterAnim_0011.png","AmuletMeterAnim_0012.png","AmuletMeterAnim_0013.png","AmuletMeterAnim_0014.png","AmuletMeterAnim_0015.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AmuletMeterAnim.png",
+	"format": "RGBA8888",
+	"size": {"w":360,"h":1264},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3ea33b73d7381e2b6e807c5e26fd676e:db1c018a2380470bc9e22c8f40f55e95:f8fe0af6ce18bb0e623cb393058d3333$"
+}
+}

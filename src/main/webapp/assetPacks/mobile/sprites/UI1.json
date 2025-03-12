@@ -1,0 +1,156 @@
+{"frames": {
+
+"AmuletMeter.png":
+{
+	"frame": {"x":460,"y":192,"w":253,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":253,"h":105},
+	"sourceSize": {"w":253,"h":105}
+},
+"noWinPlaque.png":
+{
+	"frame": {"x":396,"y":297,"w":550,"h":328},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":550,"h":328},
+	"sourceSize": {"w":550,"h":328}
+},
+"prizeTableValueBG.png":
+{
+	"frame": {"x":0,"y":625,"w":550,"h":392},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":550,"h":392},
+	"sourceSize": {"w":550,"h":392}
+},
+"prizeTableValuePortraitBG.png":
+{
+	"frame": {"x":0,"y":297,"w":396,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":282},
+	"sourceSize": {"w":396,"h":282}
+},
+"reelsFrame.png":
+{
+	"frame": {"x":0,"y":1017,"w":789,"h":535},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":789,"h":535},
+	"sourceSize": {"w":789,"h":535}
+},
+"runeBonusAmuletMeter.png":
+{
+	"frame": {"x":713,"y":192,"w":253,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":253,"h":105},
+	"sourceSize": {"w":253,"h":105}
+},
+"TicketCostDim.png":
+{
+	"frame": {"x":86,"y":0,"w":190,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":68},
+	"sourceSize": {"w":190,"h":68}
+},
+"ticketCostLevelIconOff.jpg":
+{
+	"frame": {"x":0,"y":0,"w":10,"h":6},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":6},
+	"sourceSize": {"w":10,"h":6}
+},
+"ticketCostLevelIconOn.jpg":
+{
+	"frame": {"x":10,"y":0,"w":10,"h":6},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":6},
+	"sourceSize": {"w":10,"h":6}
+},
+"tutorialLeftButton.png":
+{
+	"frame": {"x":276,"y":0,"w":114,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":192},
+	"sourceSize": {"w":114,"h":192}
+},
+"tutorialLeftButtonOver.png":
+{
+	"frame": {"x":390,"y":0,"w":114,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":192},
+	"sourceSize": {"w":114,"h":192}
+},
+"tutorialLeftButtonPress.png":
+{
+	"frame": {"x":504,"y":0,"w":114,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":192},
+	"sourceSize": {"w":114,"h":192}
+},
+"tutorialLightIconOff.png":
+{
+	"frame": {"x":20,"y":0,"w":33,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":36},
+	"sourceSize": {"w":33,"h":36}
+},
+"tutorialLightIconOn.png":
+{
+	"frame": {"x":53,"y":0,"w":33,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":36},
+	"sourceSize": {"w":33,"h":36}
+},
+"tutorialRightButton.png":
+{
+	"frame": {"x":618,"y":0,"w":114,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":192},
+	"sourceSize": {"w":114,"h":192}
+},
+"tutorialRightButtonOver.png":
+{
+	"frame": {"x":732,"y":0,"w":114,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":192},
+	"sourceSize": {"w":114,"h":192}
+},
+"tutorialRightButtonPress.png":
+{
+	"frame": {"x":846,"y":0,"w":114,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":192},
+	"sourceSize": {"w":114,"h":192}
+},
+"winBox.png":
+{
+	"frame": {"x":0,"y":192,"w":460,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":460,"h":50},
+	"sourceSize": {"w":460,"h":50}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "UI1.png",
+	"format": "RGBA8888",
+	"size": {"w":966,"h":1552},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6741546a9d952df7e951be0776e999ac:781a5d9955fa9faa3b912e255b9117b3:1c3b44b14b3edee687d1599b239971c9$"
+}
+}

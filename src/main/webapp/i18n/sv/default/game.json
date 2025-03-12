@@ -1,0 +1,121 @@
+﻿{
+    "version":"8-23-2017 2:01PM Riches of the Runes en_us_Standardsession",
+	"audioLoader": {
+		"yes": "Ja",
+		"no": "Nej",
+		"confirm": "Vill du ha ljud?"
+	},
+	"title": "Riches of the Runes",
+	"Paytable": {
+        "RTPvalue": "{@minRTP} %",
+        "RTPrange": "från {@minRTP} % till {@maxRTP} %",
+        "RTPrangeStatic": "från 85,00 % till 93,00 %",
+        "paybackTitle": "Förväntad återbetalning",
+        "paybackBody": "För det här spelet är den långsiktiga, teoretiskt förväntade återbetalningen {RTP}."
+    },
+	"MenuCommand": {
+        "WLA": {
+            "howToPlay": "hjälp",
+            "payTable": "Pristabell",
+            "price": "Pris",
+            "stake": "Insats",
+            "balance": "Saldo"                
+        },
+        "Commercial": {
+            "howToPlay": "hjälp",
+            "payTable": "Vinsttabell",
+            "price": "Pris",
+            "stake": "Insats",
+            "balance": "Saldo"     
+        },
+        "audio": {
+            "on": "På",
+            "off": "Av",
+            "sound": "Ljud"
+        }
+    },
+	"Error": {
+        "error29000": "Fel: 29000\n\nDet har inträffat ett internt fel.\nLÄMNA och starta om spelet."
+    },
+	"Game": {
+        "WLA": {
+            "tutorialTitle": "SÅ HÄR SPELAR DU",
+            "tutorialPage": "Tryck på varje lysande sten för att avslöja en ädelsten.\nAvslöja 4 eller fler regnbågsädelstenar för att vinna ett pris!\nHitta 4 runsymboler för att aktivera runbonusen.\nHitta 4 amulettsymboler för att aktivera amulettbonusen.",
+            "tutorialPage01": "I runbonusen väljer du 4 stenar för att avslöja en amulettsymbol eller vinna ett pris.\nI amulettbonusen väljer du en amulett för att multiplicera totalvinsten. "
+        },
+        "Commercial": {
+            "tutorialTitle": "SÅ HÄR SPELAR DU",
+            "tutorialPage": "Tryck på varje lysande sten för att avslöja en ädelsten.\nAvslöja 4 eller fler regnbågsädelstenar för att vinna ett pris!\nHitta 4 runsymboler för att aktivera runbonusen.\nHitta 4 amulettsymboler för att aktivera amulettbonusen.",
+            "tutorialPage01": "I runbonusen väljer du 4 stenar för att avslöja en amulettsymbol eller vinna ett pris.\nI amulettbonusen väljer du en amulett för att multiplicera totalvinsten. "
+        },  
+            "RUNEBONUS":"RUNBONUS",
+            "AMULETBONUS":"AMULETTBONUS",
+            "BpormptText":"Välj en amulett för att multiplicera den totala vinsten. ",
+            "ApormptText":"Välj 4 stenar för att avslöja en amulettsymbol eller vinna ett pris.",
+            "amuletbonus":"AMULETTBONUS",
+            "totalwin":"TOTAL VINST",
+            "totalbonuswin":"TOTAL VINST",
+            "totaldemowin":"TOTAL DEMOVINST",
+            "bonuswin":"BONUSVINST",
+            "bonusLogo":"RUNBONUS",
+            "bonusLogo01":"RUNBONUS",
+            "find":"HITTA",
+            "win":"VINST",
+            "rune":"RUNA",
+            "amulet":"AMULETT",
+            "multiplierText_1":"13x",
+            "multiplierText_2":"12x",
+            "multiplierText_3":"11x",
+            "multiplierText_4":"10x",
+            "multiplierText_5":"9x",
+            "multiplierText_6":"8x",
+            "multiplierText_7":"7x",
+            "multiplierText_8":"6x",
+            "multiplierText_9":"5x",
+            "multiplierText_10":"4x",
+            "amuletMultipleText_1":"10x",
+            "amuletMultipleText_2":"5x",
+            "amuletMultipleText_3":"4x",
+            "amuletMultipleText_4":"3x",
+            "amuletMultipleText_5":"2x",
+            "demo": "FÖRSÖK ",
+            "button_buy": "KÖP",
+            "button_try": "FÖRSÖK",
+            "button_continue": "FORTSÄTT",
+            "button_move2moneyGame": "FLYTTA TILL PENGAR",
+            "button_autoPlay": "AVSLÖJA ALLA",
+            "button_playAgain":"SPELA IGEN",
+            "button_MTMPlayAgain":"FÖRSÖK IGEN",
+            "button_stop":"STOPPA",
+            "wager": "LOTTKOSTNAD",
+            "meter_wager": "LOTTKOSTNAD ",            
+            "balance": "SALDO ",
+            "wins": "VINST ",
+            "wins_demo": "DEMOVINST ",
+            "message_nonWin01": "BÄTTRE LYCKA",
+            "message_nonWin02": "NÄSTA GÅNG",
+            "message_buyWin": "GRATTIS!\nDu har vunnit",
+            "message_tryWin": "TACK FÖR ATT DU SPELAR!\nDu kunde ha vunnit",
+            "message_anonymousTryWin": "TACK FÖR ATT DU SPELAR!\nDu kunde ha vunnit",
+            "message_close": "OK",
+            "button_exit": "LÄMNA",
+            "session_timeout_warning_exit_button": "LÄMNA",
+            "error_button_exit": "LÄMNA",
+            "warning_button_continue": "FORTSÄTT",
+            "warning_button_exitGame": "LÄMNA",
+            "warning_title": "VARNING",
+            "error_title": "FEL",
+            "win_up_to":"VINN UPP TILL",
+            "win_up_to_mark":"!",
+            "tutorial_title":"SÅ HÄR SPELAR DU",            
+            "your_number":"DINA SYMBOLER",
+            "luck_number":"VINSTSYMBOLER",
+            "meter_division":" | ",
+            "buttonClose":"X",
+			"prizeLevel": "Prisnivå",
+			"prizeDescription": "Beskrivning",
+            "prizeValue": "Prisvärde",
+            "paytableWager": "LOTTKOSTNAD "
+
+	}
+}

@@ -1,0 +1,47 @@
+{"frames": {
+
+"stoneExplosion_0013.png":
+{
+	"frame": {"x":0,"y":0,"w":800,"h":800},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":800},
+	"sourceSize": {"w":800,"h":800}
+},
+"stoneExplosion_0014.png":
+{
+	"frame": {"x":800,"y":0,"w":800,"h":800},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":800},
+	"sourceSize": {"w":800,"h":800}
+},
+"stoneExplosion_0015.png":
+{
+	"frame": {"x":0,"y":800,"w":800,"h":800},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":800},
+	"sourceSize": {"w":800,"h":800}
+},
+"stoneExplosion_0016.png":
+{
+	"frame": {"x":800,"y":800,"w":800,"h":800},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":800},
+	"sourceSize": {"w":800,"h":800}
+}},
+"animations": {
+	"stoneExplosion": ["stoneExplosion_0013.png","stoneExplosion_0014.png","stoneExplosion_0015.png","stoneExplosion_0016.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "stoneExplosion4.png",
+	"format": "RGBA8888",
+	"size": {"w":1600,"h":1600},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9cd94e4433f41bd091f9d3ce14fe3e99:1442f6a552e601ac4acaaa76f00d97c5:34ac0a9509df947a0a27dcb19435721c$"
+}
+}
